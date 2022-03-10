@@ -1,7 +1,7 @@
 
 
 
-integrantes: 
+  integrantes: 
          
           Oneyda Perez 
           Greisy Pistala 
